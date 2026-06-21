@@ -1,0 +1,15 @@
+{
+	"name": "factory-rahulazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12235f10-75e5-4f97-9637-b0783177e562",
+		"tenantId": "2798c23c-6e59-4cc4-8901-beec36434e39"
+	}
+}
